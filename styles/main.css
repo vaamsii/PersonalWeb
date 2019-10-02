@@ -7239,4 +7239,12 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0;
+
+
+}
+
+.page-header-image{
+  filter: blur(1px);
+  -webkit-filter: blur(1px)
+
 }
