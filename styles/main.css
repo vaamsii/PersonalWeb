@@ -7244,7 +7244,7 @@ a.credit {
 }
 
 .page-header-image{
-  filter: blur(1px);
-  -webkit-filter: blur(1px)
+  filter: blur(4.5px);
+  -webkit-filter: blur(4.5px)
 
 }
